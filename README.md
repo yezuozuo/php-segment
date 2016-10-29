@@ -15,3 +15,7 @@ PHP去除字符串中的所有空格
 #### getAllFileName.php
 
 PHP递归获取某个文件夹下的所有文件名
+
+#### sort.php
+
+用PHP实现的排序算法
